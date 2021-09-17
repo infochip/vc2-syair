@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hubertfrancis.vercel.app/sitemap.xml
